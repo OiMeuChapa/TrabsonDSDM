@@ -1,0 +1,178 @@
+
+@media only screen and (min-width: 480px) {
+p{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+font-size: 5px;
+}
+img{
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+ div{
+ 	display: block;
+ 	overflow: auto;
+ 	margin: 5px;
+
+ }
+ .cartao {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 2px;
+    background-color: white;
+    
+}
+
+h1{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+
+} }
+
+@media only screen and (min-width: 600px) {
+p{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+font-size: 10px;
+}
+img{
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+ div{
+ 	display: block;
+ 	overflow: auto;
+ 	margin: 10px;
+
+ }
+ .cartao {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 2px;
+    background-color: white;
+   
+}
+
+
+h1{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+
+}}
+
+@media only screen and (min-width: 768px) {
+p{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+font-size: 20px;
+}
+img{
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+ div{
+ 	display: block;
+ 	overflow: auto;
+ 	margin: 20px;
+
+ }
+ .cartao {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+
+.cartao:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+h1{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+
+}
+}
+
+
+@media only screen and (min-width: 992px) {
+p{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+font-size: 20px;
+}
+img{
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+ div{
+ 	display: block;
+ 	overflow: auto;
+ 	margin: 50px;
+
+ }
+ .cartao {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+.cartao:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+h1{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+
+}}
+
+
+@media only screen and (min-width: 1382px) { 
+p{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+font-size: 20px;
+}
+img{
+display: block;
+
+margin-left: auto;
+margin-right: auto;
+}
+
+ div{
+ 	display: block;
+ 	overflow: auto;
+ 	margin: 100px 100px 100px 100px;
+
+ }
+ .cartao {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+.cartao:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+h1{
+text-align: center;		
+font-family: "Verdana", Sans Serif;
+
+} }
